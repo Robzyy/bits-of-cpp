@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/robzyy/src/cpp/raspiTempMonitor/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK  -g   -o CMakeFiles/TempMonitor.dir/main.cpp.o -c /home/robzyy/src/cpp/raspiTempMonitor/main.cpp",
+  "file": "/home/robzyy/src/cpp/raspiTempMonitor/main.cpp"
+},
+{
+  "directory": "/home/robzyy/src/cpp/raspiTempMonitor/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DBOOST_ALL_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK  -g   -o CMakeFiles/TempMonitor.dir/arguments.cpp.o -c /home/robzyy/src/cpp/raspiTempMonitor/arguments.cpp",
+  "file": "/home/robzyy/src/cpp/raspiTempMonitor/arguments.cpp"
+}
+]
